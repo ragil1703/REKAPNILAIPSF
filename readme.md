@@ -27,7 +27,7 @@
     edit file .env using your text editor. set:
 
     ```text
-    DB_DATABASE=sipenkibra (your database name)
+    DB_DATABASE=sipenkibra (PASKIBRA)
     DB_USERNAME=root (if you're use XAMPP)
     DB_PASSWORD= (if you're use XAMPP)
     ```
